@@ -368,37 +368,37 @@
 
 #### 3-2 게임선택 화면
 
-![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\게임선택.PNG)
+![](Readme.assets\게임선택.PNG)
 
 - **[게임목록] :** 타자연습, 타이타닉, 그림그리기, 밸런스 게임이 있다.
 
 #### 3-3 타이타닉 게임
 
-![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\맥주.gif)
+![](Readme.assets\맥주.gif)
 
 - **[타이타닉] :** 순서대로 비어있는 술잔을 마우스클릭을 통해 채운후 넘치게 따른사람이 걸리는 게임
 
 #### 3-4 타자연습
 
-![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\타자게임.gif)
+![](Readme.assets\타자게임.gif)
 
 - **[타자연습] :** 시간내에 빠르게 제시된 문장을 치는 사람이 승리.
 
 #### 3-5 그림그리기
 
-![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\드로잉.png)
+![](Readme.assets\드로잉.png)
 
 - **[그림그리기] :** 서로의 카메라에 그림을 그려줄 수 있다.
 
 #### 3-6 밸런스게임
 
-![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\밸런스.png)
+![](Readme.assets\밸런스.png)
 
 - **[밸런스게임] :** 두개의 질문중 하나를 시간내에 선택하는 게임.
 
 #### 3-7 방 채팅 및 확성기
 
-![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\확성기2.png)
+![](Readme.assets\확성기2.png)
 
 - **[채팅및확성기] :** 방에있는 사용자들과 채팅 및 확성기를 통해 소통을 할수있다.
 
