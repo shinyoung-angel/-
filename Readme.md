@@ -358,7 +358,7 @@
 
 #### 3-1 미팅방 입장
 
-![](https://images.velog.io/images/upgrademarine5/post/a5c47994-98ca-430c-ab20-39bdaf8a5555/Inked%EB%B0%A91_LI.jpg)
+<img title="" src="Readme.assets/필터 적용.gif" alt="" data-align="inline">
 
 - **[음성 설정] :** 마이크를 켜고 끌수 있다.
 - **[카메라 설정] :** 카레마를 켜고 끌수 있다.
@@ -368,37 +368,37 @@
 
 #### 3-2 게임선택 화면
 
-![](https://images.velog.io/images/upgrademarine5/post/a2c4bbe6-96f9-4e61-92b0-ca512cb675ba/Inked%EB%B0%A92_LI.jpg)
+![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\게임선택.PNG)
 
 - **[게임목록] :** 타자연습, 타이타닉, 그림그리기, 밸런스 게임이 있다.
 
 #### 3-3 타이타닉 게임
 
-![](https://images.velog.io/images/upgrademarine5/post/c9a5f2e3-0460-421b-bb22-9d2bf216a28f/Inked%EB%B0%A93_LI.jpg)
+![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\맥주.gif)
 
 - **[타이타닉] :** 순서대로 비어있는 술잔을 마우스클릭을 통해 채운후 넘치게 따른사람이 걸리는 게임
 
 #### 3-4 타자연습
 
-![](https://images.velog.io/images/upgrademarine5/post/fffb5c03-e59a-424e-a4c6-45c71153da65/Inked%EB%B0%A96_LI.jpg)
+![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\타자게임.gif)
 
 - **[타자연습] :** 시간내에 빠르게 제시된 문장을 치는 사람이 승리.
 
 #### 3-5 그림그리기
 
-![](https://images.velog.io/images/upgrademarine5/post/9b4724b4-fb9d-47ec-933a-cb645936b745/Inked%EB%B0%A98_LI.jpg)
+![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\드로잉.png)
 
 - **[그림그리기] :** 서로의 카메라에 그림을 그려줄 수 있다.
 
 #### 3-6 밸런스게임
 
-![](https://images.velog.io/images/upgrademarine5/post/674e013e-3ba9-4dd5-9600-2ce15cf234ac/Inked%EB%B0%A955_LI.jpg)
+![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\밸런스.png)
 
 - **[밸런스게임] :** 두개의 질문중 하나를 시간내에 선택하는 게임.
 
 #### 3-7 방 채팅 및 확성기
 
-![](https://media.vlpt.us/images/sin5015243/post/ecd111c1-ae7f-4608-9aa2-4c37c029643d/%ED%99%95%EC%84%B1%EA%B8%B0.png)
+![](C:\Users\SSAFY\Desktop\주유소\Readme.assets\확성기2.png)
 
 - **[채팅및확성기] :** 방에있는 사용자들과 채팅 및 확성기를 통해 소통을 할수있다.
 
